@@ -126,12 +126,9 @@ function generateMessage(event) {
                           'facts': [
                             {
                               'title': 'Region',
-                              'value': event.regiom,
+                              'value': event.region,
                             },
-                            {
-                              'title': 'Account',
-                              'value': event.account,
-                            },
+                     
                           ],
                         },
                       ],
